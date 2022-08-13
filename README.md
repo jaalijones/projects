@@ -8,7 +8,7 @@
 
 <h2>📫💻 Certifications</h2>
 
-  - [CompTIA Security+ certificate](https://github.com/kingjones96/kingjones96/files/9255910/CompTIA.Security%2B.ce.certificate.1.pdf)
+  - [CompTIA Security+](https://github.com/kingjones96/kingjones96/files/9255910/CompTIA.Security%2B.ce.certificate.1.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
