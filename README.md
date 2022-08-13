@@ -14,7 +14,7 @@
 
 [<img align="left" alt="JaaliJones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jaali-jones-400b64134/
+[linkedin]: https://www.linkedin.com/in/jaali-jones
 
 <!--
 
