@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Windows Sentinel SIEM Lab: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows Sentinel SIEM Lab: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jaalijones/Sentinel_Lab)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
